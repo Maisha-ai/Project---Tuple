@@ -1,0 +1,8 @@
+print("About me:")
+tup=("Maisha" , "Karim" , 15 , "5 foot 3 inches" , "52kg" , "English")
+print("My first name is" , tup[0])
+print("My last name is" , tup[1])
+print("I am" , tup[2] , "years old")
+print("I am" , tup[3])
+print("I am" , tup[4])
+print("My favourite subject is" , tup[5])
